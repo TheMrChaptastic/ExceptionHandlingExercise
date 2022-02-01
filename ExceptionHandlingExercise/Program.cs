@@ -19,7 +19,6 @@ namespace ExceptionHandlingExercise
             // ------------------------------------------------------------------------------
             var arr = new char[] { '1', 'a', '3', '6', '9', 'n', '4', 'B', '2' };
             var numbers = new List<int>();
-            var str = "";
 
             //TODO START HERE:
 
